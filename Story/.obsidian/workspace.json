@@ -12,9 +12,9 @@
             "id": "6a30c03f183bcfe6",
             "type": "leaf",
             "state": {
-              "type": "story-line-stats",
+              "type": "story-line-board",
               "state": {},
-              "icon": "bar-chart-2",
+              "icon": "layout-grid",
               "title": "StoryLine - Story"
             }
           }
@@ -55,7 +55,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -219,8 +219,9 @@
       "storyline:StoryLine projects": false
     }
   },
-  "active": "6a30c03f183bcfe6",
+  "active": "a6a7e0b29ab45f41",
   "lastOpenFiles": [
+    "Untitled",
     "StoryLine/Story/System/manuscript-state.json",
     "Messy First Draft.md",
     "StoryLine/Story/System/characters.json",
@@ -232,7 +233,6 @@
     "StoryLine/Story/System",
     "StoryLine/Story/Research",
     "StoryLine/Story/Archive",
-    "StoryLine/Story/Notes",
     "StoryLine/Story/Story.md",
     "Welcome.md"
   ]
