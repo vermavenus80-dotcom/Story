@@ -6,7 +6,7 @@
       {
         "id": "a527af87e20a9e5b",
         "type": "tabs",
-        "dimension": 86.59517426273459,
+        "dimension": 22.421524663677133,
         "children": [
           {
             "id": "6a30c03f183bcfe6",
@@ -23,7 +23,7 @@
       {
         "id": "b8cdd28a902eb937",
         "type": "tabs",
-        "dimension": 13.404825737265416,
+        "dimension": 77.57847533632287,
         "children": [
           {
             "id": "7ac853a56d12825a",
@@ -38,8 +38,23 @@
               "icon": "lucide-file",
               "title": "Messy First Draft"
             }
+          },
+          {
+            "id": "b13dcc41760df4de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,12 +127,11 @@
               "title": "StoryLine Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 600.5
   },
   "right": {
     "id": "702c7a8ee94017b4",
@@ -133,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Messy First Draft.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +157,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Messy First Draft"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -225,9 +239,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bc0e251d814c16fa",
+  "active": "b13dcc41760df4de",
   "lastOpenFiles": [
     "Messy First Draft.md",
+    "Untitled.md",
     "Untitled",
     "StoryLine/Story/System/manuscript-state.json",
     "StoryLine/Story/System/characters.json",
