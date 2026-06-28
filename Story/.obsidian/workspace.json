@@ -6,19 +6,16 @@
       {
         "id": "a527af87e20a9e5b",
         "type": "tabs",
+        "dimension": 83.22147651006712,
         "children": [
           {
             "id": "6a30c03f183bcfe6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Messy First Draft.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Messy First Draft"
+              "type": "story-line-stats",
+              "state": {},
+              "icon": "bar-chart-2",
+              "title": "StoryLine - Story"
             }
           }
         ]
@@ -26,6 +23,7 @@
       {
         "id": "b8cdd28a902eb937",
         "type": "tabs",
+        "dimension": 16.778523489932887,
         "children": [
           {
             "id": "7ac853a56d12825a",
@@ -99,12 +97,22 @@
               "icon": "longform",
               "title": "Longform"
             }
+          },
+          {
+            "id": "76ba1ddeb6899da0",
+            "type": "leaf",
+            "state": {
+              "type": "story-line-navigator",
+              "state": {},
+              "icon": "compass",
+              "title": "StoryLine Navigator"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "702c7a8ee94017b4",
@@ -207,13 +215,25 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "storyline:StoryLine projects": false
     }
   },
   "active": "6a30c03f183bcfe6",
   "lastOpenFiles": [
-    "Welcome.md",
-    "Untitled.base",
-    "Messy First Draft.md"
+    "StoryLine/Story/System/manuscript-state.json",
+    "Messy First Draft.md",
+    "StoryLine/Story/System/characters.json",
+    "StoryLine/Story/System/stats.json",
+    "StoryLine/Story/System/plotlines.json",
+    "StoryLine/Story/System/board.json",
+    "StoryLine/Story/System/timeline.json",
+    "StoryLine/Story/System/plotgrid.json",
+    "StoryLine/Story/System",
+    "StoryLine/Story/Research",
+    "StoryLine/Story/Archive",
+    "StoryLine/Story/Notes",
+    "StoryLine/Story/Story.md",
+    "Welcome.md"
   ]
 }
