@@ -6,16 +6,16 @@
       {
         "id": "a527af87e20a9e5b",
         "type": "tabs",
-        "dimension": 83.22147651006712,
+        "dimension": 86.59517426273459,
         "children": [
           {
             "id": "6a30c03f183bcfe6",
             "type": "leaf",
             "state": {
-              "type": "story-line-board",
+              "type": "story-line-manuscript",
               "state": {},
-              "icon": "layout-grid",
-              "title": "StoryLine - Story"
+              "icon": "book-open-text",
+              "title": "Manuscript - Story"
             }
           }
         ]
@@ -23,16 +23,20 @@
       {
         "id": "b8cdd28a902eb937",
         "type": "tabs",
-        "dimension": 16.778523489932887,
+        "dimension": 13.404825737265416,
         "children": [
           {
             "id": "7ac853a56d12825a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Messy First Draft.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Messy First Draft"
             }
           }
         ]
@@ -128,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "Messy First Draft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +142,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for Messy First Draft"
             }
           },
           {
@@ -219,11 +223,11 @@
       "storyline:StoryLine projects": false
     }
   },
-  "active": "a6a7e0b29ab45f41",
+  "active": "7ac853a56d12825a",
   "lastOpenFiles": [
+    "Messy First Draft.md",
     "Untitled",
     "StoryLine/Story/System/manuscript-state.json",
-    "Messy First Draft.md",
     "StoryLine/Story/System/characters.json",
     "StoryLine/Story/System/stats.json",
     "StoryLine/Story/System/plotlines.json",
@@ -232,7 +236,6 @@
     "StoryLine/Story/System/plotgrid.json",
     "StoryLine/Story/System",
     "StoryLine/Story/Research",
-    "StoryLine/Story/Archive",
     "StoryLine/Story/Story.md",
     "Welcome.md"
   ]
