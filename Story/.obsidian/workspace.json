@@ -112,7 +112,8 @@
               "title": "StoryLine Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -220,10 +221,11 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "storyline:StoryLine projects": false
+      "storyline:StoryLine projects": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "7ac853a56d12825a",
+  "active": "bc0e251d814c16fa",
   "lastOpenFiles": [
     "Messy First Draft.md",
     "Untitled",
