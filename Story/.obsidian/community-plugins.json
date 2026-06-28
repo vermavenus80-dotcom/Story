@@ -3,5 +3,7 @@
   "longform",
   "storyline",
   "metadata-menu",
-  "templater-obsidian"
+  "templater-obsidian",
+  "dataview",
+  "obsidian-minimal-settings"
 ]
