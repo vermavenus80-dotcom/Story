@@ -12,9 +12,9 @@
             "id": "6a30c03f183bcfe6",
             "type": "leaf",
             "state": {
-              "type": "story-line-board",
+              "type": "story-line-timeline",
               "state": {},
-              "icon": "layout-grid",
+              "icon": "clock",
               "title": "StoryLine - Story"
             }
           }
@@ -45,12 +45,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Messy First Draft.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Messy First Draft"
+              "title": "Untitled"
             }
           }
         ],
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Messy First Draft.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Messy First Draft"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -239,8 +239,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6a30c03f183bcfe6",
+  "active": "b13dcc41760df4de",
   "lastOpenFiles": [
+    "Welcome.md",
     "Untitled.md",
     "Messy First Draft.md",
     "Untitled",
@@ -253,7 +254,6 @@
     "StoryLine/Story/System/plotgrid.json",
     "StoryLine/Story/System",
     "StoryLine/Story/Research",
-    "StoryLine/Story/Story.md",
-    "Welcome.md"
+    "StoryLine/Story/Story.md"
   ]
 }
