@@ -12,10 +12,10 @@
             "id": "6a30c03f183bcfe6",
             "type": "leaf",
             "state": {
-              "type": "story-line-manuscript",
+              "type": "story-line-board",
               "state": {},
-              "icon": "book-open-text",
-              "title": "Manuscript - Story"
+              "icon": "layout-grid",
+              "title": "StoryLine - Story"
             }
           }
         ]
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Messy First Draft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for Messy First Draft"
             }
           },
           {
@@ -239,7 +239,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b13dcc41760df4de",
+  "active": "6a30c03f183bcfe6",
   "lastOpenFiles": [
     "Untitled.md",
     "Messy First Draft.md",
