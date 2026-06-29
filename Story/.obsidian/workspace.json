@@ -26,20 +26,6 @@
         "dimension": 52.59488768396592,
         "children": [
           {
-            "id": "7ac853a56d12825a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Messy First Draft.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Messy First Draft"
-            }
-          },
-          {
             "id": "b13dcc41760df4de",
             "type": "leaf",
             "state": {
@@ -53,8 +39,7 @@
               "title": "Messy First Draft"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
