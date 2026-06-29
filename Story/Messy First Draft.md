@@ -1,1 +1,1 @@
-Caniballistic woman horribly murders humans and grind them to use as meat 
+Caniballistic woman horribly murders humans and grind them to use as meat, and she sells the same meat for cheaper price to poor families and lures them into same trap 
