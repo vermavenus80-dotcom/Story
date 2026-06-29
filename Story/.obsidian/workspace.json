@@ -12,9 +12,9 @@
             "id": "6a30c03f183bcfe6",
             "type": "leaf",
             "state": {
-              "type": "story-line-timeline",
+              "type": "story-line-board",
               "state": {},
-              "icon": "clock",
+              "icon": "layout-grid",
               "title": "StoryLine - Story"
             }
           }
@@ -239,7 +239,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b13dcc41760df4de",
+  "active": "6a30c03f183bcfe6",
   "lastOpenFiles": [
     "Welcome.md",
     "Untitled.md",
