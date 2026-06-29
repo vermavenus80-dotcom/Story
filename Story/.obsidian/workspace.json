@@ -6,7 +6,7 @@
       {
         "id": "a527af87e20a9e5b",
         "type": "tabs",
-        "dimension": 44.84895429899303,
+        "dimension": 47.40511231603408,
         "children": [
           {
             "id": "6a30c03f183bcfe6",
@@ -23,7 +23,7 @@
       {
         "id": "b8cdd28a902eb937",
         "type": "tabs",
-        "dimension": 55.15104570100697,
+        "dimension": 52.59488768396592,
         "children": [
           {
             "id": "7ac853a56d12825a",
@@ -239,7 +239,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6a30c03f183bcfe6",
+  "active": "b13dcc41760df4de",
   "lastOpenFiles": [
     "Welcome.md",
     "Untitled.md",
