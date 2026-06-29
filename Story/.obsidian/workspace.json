@@ -15,7 +15,7 @@
               "type": "story-line-manuscript",
               "state": {},
               "icon": "book-open-text",
-              "title": "Manuscript - Story"
+              "title": "Manuscript"
             }
           }
         ]
@@ -23,7 +23,7 @@
       {
         "id": "b8cdd28a902eb937",
         "type": "tabs",
-        "dimension": 13.41381623071764,
+        "dimension": 13.413816230717634,
         "children": [
           {
             "id": "7ac853a56d12825a",
